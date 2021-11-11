@@ -1,5 +1,8 @@
 # OrderApplication
 
+### Sql
+[Sql](https://github.com/Serkanydn/OrderApplication/blob/master/Sql/OrderApplicationSql.sql)
+
 ### Customer Add
 ![CustomerAdd](https://github.com/Serkanydn/OrderApplication/blob/master/Images/customerAdd.jpeg)
 
